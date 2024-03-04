@@ -63,7 +63,7 @@
 <p align="left">- ✨ Start coding in 2022<br>- 📚 I'm currently learning Web development and studying in Computer engineering major<br>- 🎯 Goals: Being a good developer<br>- 💖 Also loving playing guitar and games</p>
 
 ###
-<picture>
-  <img src="https://raw.githubusercontent.com/NinePTH/NinePTH/output/snake.svg" alt="Snake animation" />
-</picture>
+
+<img src="https://raw.githubusercontent.com/NinePTH/NinePTH/output/snake.svg" alt="Snake animation" />
+
 ###
