@@ -64,7 +64,6 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NinePTH/NinePTH/output/snake.svg" />
-<!--   <img src="https://raw.githubusercontent.com/NinePTH/NinePTH/output/snake.svg" alt="Snake animation" /> -->
+  <img src="https://raw.githubusercontent.com/NinePTH/NinePTH/output/snake.svg" alt="Snake animation" />
 </picture>
 ###
