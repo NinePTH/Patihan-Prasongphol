@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -64,6 +64,6 @@
 
 ###
 
-###
 <img src="https://raw.githubusercontent.com/NinePTH/NinePTH/output/snake.svg" alt="Snake animation" />
+
 ###
