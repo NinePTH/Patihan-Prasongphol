@@ -64,5 +64,6 @@
 
 ###
 
+###
 <img src="https://raw.githubusercontent.com/NinePTH/NinePTH/output/snake.svg" alt="Snake animation" />
 ###
