@@ -2,14 +2,6 @@
 
 ###
 
-<img align="left" height="150" src="https://scontent.cdninstagram.com/v/t51.2885-15/289745141_1156260518272651_8333271588469158946_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_ohc=w310CD2OY9EAX8UFZ5w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=Mjg2NjYxNDQxMDg0MTg2OTk3Ng%3D%3D.2-ccb7-5&oh=00_AfD0fvsH7L02z2MjHPZhh-0bOYgHcemrULrn_5o9CAVY1w&oe=65EAC633&_nc_sid=10d13b"  />
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/105841902?v=4"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
