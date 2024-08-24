@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">- ✨ Start coding since 2022<br>- 📚 I'm currently learning Web development and studying in Computer Engineering major<br>- 🎯 Goals: Be a good Full-stack developer<br>- 💖 Age 19 and I also love playing guitar and video games</p>
+<p align="left">- ✨ Coding since 2022<br>- 📚 I'm currently learning Web development and studying in Computer Engineering major<br>- 🎯 Goals: Be a good Full-stack developer<br>- 💖 Age 19 and I also love playing guitar and video games</p>
 
 ###
 
