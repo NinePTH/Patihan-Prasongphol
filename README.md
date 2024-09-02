@@ -21,6 +21,8 @@
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="30" alt="figma logo"  />
   <img width="12" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-256.png" height="30" alt="postman logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
