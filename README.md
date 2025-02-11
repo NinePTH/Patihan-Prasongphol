@@ -17,17 +17,13 @@
   <img width="12" />
   <img src="https://cdnlogo.com/logos/j/86/java.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" height="30" alt="golang logo"  />
+  <img src="https://cdnlogo.com/logos/g/35/golang.svg" height="30" alt="golang logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-256.png" height="30" alt="postman logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" /> -->
@@ -38,6 +34,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-256.png" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="30" alt="postman logo"  />
   <img width="12" />
 </div>
 
