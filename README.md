@@ -67,7 +67,7 @@
 
 ###
 
-<p align="left">- ✨ Coding since 2022<br>- 📚 I'm currently learning Web development and studying in Computer Engineering major at KMUTT<br>- 🎯 Goals: Be a good Full-stack developer<br>- 💖 Age 19 and I also love playing guitar and video games</p>
+<p align="left">- ✨ Coding since 2022<br>- 📚 I'm currently learning Web development, working as a web developer for SCB, and studying in Computer Engineering major at KMUTT<br>- 🎯 Goals: Be a good Full-stack developer<br>- 💖 Age 19 and I also love playing guitar and video games</p>
 
 ###
 
